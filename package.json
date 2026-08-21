@@ -1,0 +1,17 @@
+{
+  "name": "graph-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "falkordb": "^6.7.0",
+    "neo4j-driver": "^6.2.0"
+  }
+}
