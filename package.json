@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^17.4.2",
+    "dotenv": "^18.0.5",
     "falkordb": "^6.7.0",
     "neo4j-driver": "^6.2.0"
   }
