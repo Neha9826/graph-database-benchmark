@@ -12,6 +12,6 @@
   "dependencies": {
     "dotenv": "^17.4.2",
     "falkordb": "^6.7.0",
-    "neo4j-driver": "^6.2.0"
+    "neo4j-driver": "^6.3.0"
   }
 }
